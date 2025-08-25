@@ -56,3 +56,4 @@ nunit-*.xml
 /DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.metadata.v9.bin
 /DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.projects.v9.bin
 /DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.strings.v9.bin
+*.vsidx
