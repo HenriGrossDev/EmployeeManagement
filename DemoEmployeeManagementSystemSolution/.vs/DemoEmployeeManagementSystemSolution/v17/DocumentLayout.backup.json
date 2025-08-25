@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\workspace\\EmployeeManagement\\DemoEmployeeManagementSystemSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19B59AD8-1119-4BB1-B37D-51A4C9F29358}|BaseLibrary\\BaseLibrary.csproj|c:\\workspace\\employeemanagement\\demoemployeemanagementsystemsolution\\baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B59AD8-1119-4BB1-B37D-51A4C9F29358}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0605854-2B46-456D-BA31-7CD44F3A28D7}|Server\\Server.csproj|c:\\workspace\\employeemanagement\\demoemployeemanagementsystemsolution\\server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0605854-2B46-456D-BA31-7CD44F3A28D7}|Server\\Server.csproj|solutionrelative:server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\workspace\\EmployeeManagement\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Class1.cs",
-              "ToolTip": "C:\\workspace\\EmployeeManagement\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\Class1.cs",
-              "RelativeToolTip": "BaseLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\workspace\\EmployeeManagement\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\workspace\\EmployeeManagement\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T23:17:24.993Z",
+              "WhenOpened": "2025-08-25T23:30:13.411Z",
               "EditorCaption": ""
             }
           ]
