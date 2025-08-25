@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/DemoEmployeeManagementSystemSolution/.vs/DemoEmployeeManagementSystemSolution/FileContentIndex/8079b622-ef26-4c28-aebd-98884225bfbf.vsidx
+/DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.metadata.v9.bin
+/DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.projects.v9.bin
+/DemoEmployeeManagementSystemSolution/.vs/ProjectEvaluation/demoemployeemanagementsystemsolution.strings.v9.bin
